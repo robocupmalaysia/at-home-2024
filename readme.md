@@ -40,5 +40,5 @@ Details information such as name, items, and object will be annouced in July.
 
 ## Reference
 
-- https://github.com/RoboCupAtHomeJP/AtHome2024/tree/main
+- RoboCup Japan Open, https://github.com/RoboCupAtHomeJP/AtHome2024/tree/main
 - Justin Hart, Alexander Moriarty, Katarzyna Pasternak, Johannes Kummert, Alina Hawkin, Vanessa Hassouna, Juan Diego Pena Narvaez, Leroy Ruegemer, Leander von Seelstrang, Peter Van Dooren, Juan Jose Garcia, Akinobu Mitzutani, Yuqian Jiang, Tatsuya Matsushima, Riccardo Polvara “Robocup@Home 2024: Rule andregulations,” <https://github.com/RoboCupAtHome/RuleBook/releases/download/2024.1/rulebook.pdf>, 2024.
