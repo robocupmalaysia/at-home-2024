@@ -47,6 +47,19 @@ Rule for the competition: https://2024.robocup.org.my/challenges-and-rules/home
 
 -->
 
+## Schedules
+
+### @Home league
+#### Robot Checking (5 September 2024 | 16:30)
+
+| Order |  Team name      |
+|-------|-----------------|
+| 1     | USM Infinity    |
+| 2     | UTAR            |
+| 3     | TwiggiesAid     |
+| 4     | Team Terminator | 
+
+
 ## Field Layout
 
 ![Competition layout](./maps/map_layout.png)
