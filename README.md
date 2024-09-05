@@ -4,6 +4,7 @@ Rule for the competition: https://2024.robocup.org.my/challenges-and-rules/home
 
 ## Table of contents
 - [Scores](#scores)
+- [Schedules](#schedules)
 - [Field Layout](#field-layout)
    - [Robot Checking](#robot-checking)
    - [Carry My Luggage](#carry-my-luggage)
