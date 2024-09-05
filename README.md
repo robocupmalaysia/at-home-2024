@@ -46,7 +46,7 @@ Rule for the competition: https://2024.robocup.org.my/challenges-and-rules/home
 
 ## Field Layout
 
-![Competition layout](./maps/layout-with-entrance-exit.png)
+![Competition layout](./maps/map_layout.png)
 
 ### Robot Checking
 ![Robot Checking Layout](./maps/robot_check_layout.png)
