@@ -7,7 +7,7 @@ Rule for the competition: https://2024.robocup.org.my/challenges-and-rules/home
 - [Schedules](#schedules)
    - [Day 1 - 5 Sep 2024](#day-1--5-september-2024)
    - [Day 2 - 6 Sep 2024](#day-2--6-september-2024)
-   - [Day 3 - 7 Sep 2024](#day-3--7-september-2024))
+   - [Day 3 - 7 Sep 2024](#day-3--7-september-2024)
 - [Field Layout](#field-layout)
    - [Robot Checking](#robot-checking)
    - [Carry My Luggage](#carry-my-luggage)
