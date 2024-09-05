@@ -9,6 +9,8 @@ Rule for the competition: https://2024.robocup.org.my/challenges-and-rules/home
    - [Robot Checking](#robot-checking)
    - [Carry My Luggage](#carry-my-luggage)
    - [Find My Mate](#find-my-mate)
+   - [Storing Groceries](#storing-groceries)
+   - [Receptionist](#receptionist)
 - [Information](#information)
 
 ## Scores
