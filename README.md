@@ -75,6 +75,13 @@ Rule for the competition: https://2024.robocup.org.my/challenges-and-rules/home
 |3|USM Infinity|3|UTAR|3|UTAR
 |4|TwiggiesAid|4|Team Terminator|4|TwiggiesAid
 
+|#|General Purpose Service Robot (GPSR)|#|Serve Breakfast|
+|-|-|-|-|
+|1|TwiggiesAid|1|TwiggiesAid|1|TwiggiesAid
+|2|UTAR|2|Team Terminator|2|Team Terminator
+|3|USM Infinity|3|UTAR|3|USM Infinity
+|4|Team Terminator|4|USM Infinity|4|UTAR
+
 #### @Home EDU Arena
 
 |#|Carry My Luggage (09:30)|#|Find My Mate (14:30)|
