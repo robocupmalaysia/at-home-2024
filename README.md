@@ -99,6 +99,32 @@ Rule for the competition: https://2024.robocup.org.my/challenges-and-rules/home
 |11|kamerider UTHM|11|UNIMY
 |12|PutraBot|12|UniMAP MechaMinds
 
+### Day 3 : 7 September 2024
+
+#### @Home OPL Arena
+|#|Clean the table (09:30)|#|Stickler for rules (10:30)|#|Restaurant (13:30)|#|Enhanced General Purpose Service Robot (EGPSR) (15:30)|
+|-|-|-|-|-|-|-|-|
+|1|Team Terminator|1|TwiggiesAid|1|USM Infinity|1|USM Infinity
+|2|TwiggiesAid|2|USM Infinity|2|Team Terminator|2|Team Terminator
+|3|USM Infinity|3|UTAR|3|UTAR|3|UTAR
+|4|UTAR|4|Team Terminator|4|TwiggiesAid|4|TwiggiesAid
+
+#### @Home EDU Arena
+|#|Receptionist (09:30)|
+|-|-|
+|1|Airost
+|2|kamerider UTHM
+|3|PutraBot
+|4|YOLOv9
+|5|UM Homies
+|6|USM Titans
+|7|UNIMY
+|8|SOBITS
+|9|FATHI
+|10|Robo in Progress
+|11|UniMAP MechaMinds
+|12|UM ENIGMA
+
 
 ## Field Layout
 
