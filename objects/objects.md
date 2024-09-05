@@ -21,8 +21,8 @@
 | :------------: | :-------------------: |
 |    biscuit     |  ![](./biscuit.jpg)   |
 |    choclate    | ![](./chocolate.jpg)  |
-|    pringles    | ![](./pringles-1.jpg) |
-| spicy pringles | ![](./pringles-2.jpg) |
+| spicy pringles | ![](./pringles-1.jpg) |
+|    pringles    | ![](./pringles-2.jpg) |
 |  spicy crisps  |  ![](./crisps-1.jpg)  |
 |     crisps     |  ![](./crisps-2.jpg)  |
 

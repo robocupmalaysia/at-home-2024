@@ -1,4 +1,4 @@
-# Robocup MalaysiaOpen 2024 @Home League
+# Robocup Malaysia Open 2024 @Home League
 
 Rule for the competition: https://2024.robocup.org.my/challenges-and-rules/home
 
