@@ -18,29 +18,46 @@ Rule for the competition: https://2024.robocup.org.my/challenges-and-rules/home
 
 ## Scores
 
-### @HOME
-| Team name       |  Poster  |
-|-----------------|----------|
-| USM Infinity    |   8.33   |
-| UTAR            |   7.33   |
-| TwiggiesAid     |    7.5   |
-| Team Terminator |    6.5   |
+### @HOME OPL
+| Team name       |  Poster  | Stage 1 | Stage 2 | Final |
+|-----------------|----------|---------|---------|-------|
+| USM Infinity    |   8.33   |         |         |       |
+| UTAR            |   7.33   |         |         |       |
+| TwiggiesAid     |    7.5   |         |         |       |
+| Team Terminator |    6.5   |         |         |       |
 
-<!-- ### @HOME EDU
-|    Team name      |  Poster   |
-|-------------------|-----------|
-| Airost            |           |
-| USM Titans        |           |
-| UNIMY             |           |
-| UniMAP MechaMinds |           |
-| PutraBot          |           |
-| FATHI             |           |
-| Robo in Progress  |           |
-| SOBITS            |           |
-| kamerider UTHM    |           |
-| UM ENIGMA         |           |
-| UM Homies         |           |
-| YOLOv9            |           | -->
+#### Stage 1
+|Team name|Storing Groceries|Receiptionist|Carry my luggage|General Purpose Service Robot (GPSR)|Serve Breakfast|Stage 1 Total
+|-|-|-|-|-|-|-|
+| USM Infinity    |       |         |         |       |        |     |
+| UTAR            |       |         |         |       |        |     |
+| TwiggiesAid     |       |         |         |       |        |     |
+| Team Terminator |       |         |         |       |        |     |
+
+#### Stage 2
+|Team name|Clean the table|Stickler for rules|Restaurant|Enhanced General Purpose Service Robot (EGPSR)|Stage 2 Total
+|-|-|-|-|-|-|
+| USM Infinity    |       |         |         |       |        |
+| UTAR            |       |         |         |       |        |
+| TwiggiesAid     |       |         |         |       |        |
+| Team Terminator |       |         |         |       |        |
+
+### @HOME EDU
+|    Team name      |  Poster   | Carry My Luggage | Find My Mates | Receptionist | Final |
+|-|-|-|-|-|-|
+| Airost            |           |         |         |       |       |
+| USM Titans        |           |         |         |       |       |
+| UNIMY             |           |         |         |       |       |
+| UniMAP MechaMinds |           |         |         |       |       |
+| PutraBot          |           |         |         |       |       |
+| FATHI             |           |         |         |       |       |
+| Robo in Progress  |           |         |         |       |       |
+| SOBITS            |           |         |         |       |       |
+| kamerider UTHM    |           |         |         |       |       |
+| UM ENIGMA         |           |         |         |       |       |
+| UM Homies         |           |         |         |       |       |
+| YOLOv9            |           |         |         |       |       |
+
 
 <!-- Template
 
