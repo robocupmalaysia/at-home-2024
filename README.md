@@ -60,6 +60,9 @@ Rule for the competition: https://2024.robocup.org.my/challenges-and-rules/home
 | 3     | TwiggiesAid     |
 | 4     | Team Terminator | 
 
+### @Home Education league
+#### 
+
 
 ## Field Layout
 
@@ -73,6 +76,10 @@ Rule for the competition: https://2024.robocup.org.my/challenges-and-rules/home
 
 ### Find My Mate
 ![Find My Mate Layout](./maps/fmm_layout.png)
+
+### Storing Groceries
+![Storing Groceries](./maps/sg_layout.png)
+_For Storing Groceries, Kitchen Table will be used as Table and Kitchen Cabinet as Cabinet_
 
 ## Information
 
