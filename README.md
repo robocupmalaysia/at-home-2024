@@ -48,6 +48,12 @@ Rule for the competition: https://2024.robocup.org.my/challenges-and-rules/home
 
 ![Competition layout](./maps/layout.png)
 
+### Robot Checking
+![Robot Checking Layout](./maps/robot_check_layout.png)
+
+### Carry My Luggage
+![Carry My Luggage Layout](./maps/cml_layout.png)
+
 ## Information
 
 - [List of names](./names/names.md)
