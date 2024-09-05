@@ -75,7 +75,7 @@ Rule for the competition: https://2024.robocup.org.my/challenges-and-rules/home
 |3|USM Infinity|3|UTAR|3|UTAR
 |4|TwiggiesAid|4|Team Terminator|4|TwiggiesAid
 
-|#|General Purpose Service Robot (GPSR)|#|Serve Breakfast|
+|#|General Purpose Service Robot (GPSR) (15:00)|#|Serve Breakfast (16:00)|
 |-|-|-|-|
 |1|TwiggiesAid|1|TwiggiesAid|1|TwiggiesAid
 |2|UTAR|2|Team Terminator|2|Team Terminator
@@ -100,14 +100,6 @@ Rule for the competition: https://2024.robocup.org.my/challenges-and-rules/home
 |12|PutraBot|12|UniMAP MechaMinds
 
 
-
-
-
-
-
-
-
-
 ## Field Layout
 
 ![Competition layout](./maps/map_layout.png)
@@ -127,6 +119,7 @@ _For Storing Groceries, Kitchen Table will be used as Table and Kitchen Cabinet 
 
 ### Receptionist
 ![Receptionist Layout](./maps/rc_layout.png)
+_Host name is "Danny", His favorite drink is "Lime Juice"_
 
 ## Information
 
