@@ -54,6 +54,9 @@ Rule for the competition: https://2024.robocup.org.my/challenges-and-rules/home
 ### Carry My Luggage
 ![Carry My Luggage Layout](./maps/cml_layout.png)
 
+### Find My Mate
+![Find My Mate Layout](./maps/fmm_layout.png)
+
 ## Information
 
 - [List of names](./names/names.md)
