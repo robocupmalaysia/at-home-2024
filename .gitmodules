@@ -1,3 +1,0 @@
-[submodule "CommandGenerator"]
-	path = CommandGenerator
-	url = git@github.com:johaq/CommandGenerator.git
