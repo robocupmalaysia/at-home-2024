@@ -32,6 +32,6 @@
 | :--------: | :--------------: |
 |   spoon    | ![](./spoon.jpg) |
 |   plate    | ![](./plate.png) |
-|    cup     |  ![](./cup.png)  |
+|    cup     |  ![](./cup.jpg)  |
 |    fork    | ![](./fork.jpg)  |
 |    bowl    | ![](./bowl.jpg)  |
