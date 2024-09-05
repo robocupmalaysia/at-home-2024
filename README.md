@@ -155,6 +155,7 @@ Rule for the competition: https://2024.robocup.org.my/challenges-and-rules/home
 
 ### Carry My Luggage
 ![Carry My Luggage Layout](./maps/cml_layout.png)
+_You can choose that you want the bag on the bed or on the floor_
 
 ### Find My Mate
 ![Find My Mate Layout](./maps/fmm_layout.png)
