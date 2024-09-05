@@ -54,6 +54,7 @@ Rule for the competition: https://2024.robocup.org.my/challenges-and-rules/home
 
 ### Day1 : 5 September 2024
 
+#### @Home OPL Arena
 | # |   Robot Checking (16:30)     | League     |
 |---|------------------------------|------------|
 | 1 | USM Infinity                 |   OPL      |
@@ -63,6 +64,40 @@ Rule for the competition: https://2024.robocup.org.my/challenges-and-rules/home
 
 <!-- ### @Home Education league
 ####  -->
+
+### Day 2 : 6 September 2024
+
+#### @Home OPL Arena
+|#|Storing Groceries (09:30)|#|Receiptionist (10:30)|#|Carry my luggage (11:30)
+|-|-|-|-|-|-|
+|1|UTAR|1|TwiggiesAid|1|Team Terminator
+|2|Team Terminator|2|USM Infinity|2|USM Infinity
+|3|USM Infinity|3|UTAR|3|UTAR
+|4|TwiggiesAid|4|Team Terminator|4|TwiggiesAid
+
+#### @Home EDU Arena
+
+|#|Carry My Luggage (09:30)|#|Find My Mate (14:30)|
+|-|-|-|-|
+|1|USM Titans|1|Robo in Progress
+|2|UM Homies|2|UM Homies
+|3|UniMAP MechaMinds|3|kamerider UTHM
+|4|UNIMY|4|YOLOv9
+|5|Robo in Progress|5|Airost
+|6|YOLOv9|6|USM Titans
+|7|FATHI|7|PutraBot
+|8|UM ENIGMA|8|UM ENIGMA
+|9|Airost|9|FATHI
+|10|SOBITS|10|SOBITS
+|11|kamerider UTHM|11|UNIMY
+|12|PutraBot|12|UniMAP MechaMinds
+
+
+
+
+
+
+
 
 
 
