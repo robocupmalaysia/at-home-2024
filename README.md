@@ -14,6 +14,7 @@ Rule for the competition: https://2024.robocup.org.my/challenges-and-rules/home
    - [Find My Mate](#find-my-mate)
    - [Storing Groceries](#storing-groceries)
    - [Receptionist](#receptionist)
+   - [General Purpose Service Robot](#general-purpose-service-robot)
 - [Information](#information)
 
 ## Scores
@@ -167,6 +168,9 @@ _For Storing Groceries, Kitchen Table will be used as Table and Kitchen Cabinet 
 ### Receptionist
 ![Receptionist Layout](./maps/rc_layout.png)
 _Host name is "Danny", His favorite drink is "Lime Juice"_
+
+### General Purpose Service Robot
+![General Purpose Service Robot Layout](./maps/gpsr_layout.png)
 
 ## Information
 
