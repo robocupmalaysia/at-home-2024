@@ -99,8 +99,8 @@ Rule for the competition: https://2024.robocup.org.my/challenges-and-rules/home
 |#|General Purpose Service Robot (GPSR) (15:00)|#|Serve Breakfast (16:00)|
 |-|-|-|-|
 |1|TwiggiesAid|1|TwiggiesAid|1|TwiggiesAid
-|2|UTAR|2|Team Terminator|2|Team Terminator
-|3|USM Infinity|3|UTAR|3|USM Infinity
+|2|~~UTAR~~|2|Team Terminator|2|Team Terminator
+|3|~~USM Infinity~~|3|UTAR|3|USM Infinity
 |4|Team Terminator|4|USM Infinity|4|UTAR
 
 #### @Home EDU Arena
