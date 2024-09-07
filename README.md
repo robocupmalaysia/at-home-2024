@@ -15,6 +15,7 @@ Rule for the competition: https://2024.robocup.org.my/challenges-and-rules/home
    - [Storing Groceries](#storing-groceries)
    - [Receptionist](#receptionist)
    - [General Purpose Service Robot](#general-purpose-service-robot)
+   - [Stickler for rules](#stickler-for-rules)
 - [Information](#information)
 
 ## Scores
@@ -173,6 +174,12 @@ _Host name is "Danny", His favorite drink is "Lime Juice"_
 
 ### General Purpose Service Robot
 ![General Purpose Service Robot Layout](./maps/gpsr_layout.png)
+
+### Stickler for rules
+![Stickler for rules Layout](./maps/sftr_layout.png)
+
+_This is the dishwasher tab, you can find this in Kitchen room_
+![Stickler for rules dishwasher tab](./objects/dishwasher-tab.jpg)
 
 ## Information
 
