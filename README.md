@@ -23,12 +23,12 @@ Rule for the competition: https://2024.robocup.org.my/challenges-and-rules/home
 ## Scores
 
 ### @HOME OPL
-| Team name       |  Poster  | Stage 1 | Stage 2 | Final |
-|-----------------|----------|---------|---------|-------|
-| USM Infinity    |   8.33   |    0    |    0    |       |
-| UTAR            |   7.33   |    0    |    0    |       |
-| TwiggiesAid     |    7.5   |  270    |  715    |       |
-| Team Terminator |    6.5   |   30    |  165    |       |
+|Team name        |Poster|Stage1|State2|Final|Total  |
+|-----------------|------|------|------|-----|-------|
+|TwiggiesAid      |7.5   |270   |715   |     |992.5  |
+|Team Terminator  |6.5   |30    |165   |     |201.5  |
+|USM Infinity     |8.33  |0     |0     |     |8.33   |
+|UTAR             |7.33  |0     |0     |     |7.33   |
 
 #### Stage 1
 |Team name|Storing Groceries|Receiptionist|Carry my luggage|General Purpose Service Robot (GPSR)|Serve Breakfast|Stage 1 Total
