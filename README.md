@@ -33,7 +33,7 @@ Rule for the competition: https://2024.robocup.org.my/challenges-and-rules/home
 |UTAR             |7.33  |0     |0     |     |7.33   |
 
 #### Stage 2
-|Team name        |Clean the table|Stickler for rules|Restaurant|Enhanced General Purpose Service Robot (EGPSR)|Stage2 Total|Stage 1+2|
+|Team name        |Clean the table|Stickler for rules|Restaurant|Enhanced General Purpose Service Robot (EGPSR)|Stage 2 Total|Stage 1+2|
 |-----------------|---------------|------------------|----------|----------------------------------------------|------------|---------|
 |TwiggiesAid      |315            |300               |100       |0                                             |715         |985      |
 |Team Terminator  |65             |0                 |100       |0                                             |165         |195      |
