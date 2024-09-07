@@ -123,12 +123,14 @@ Rule for the competition: https://2024.robocup.org.my/challenges-and-rules/home
 ### Day 3 : 7 September 2024
 
 #### @Home OPL Arena
-|#|Clean the table (09:30)|#|Stickler for rules (10:30)|#|Restaurant (13:30)|#|Enhanced General Purpose Service Robot (EGPSR) (15:30)|
+|#|Enhanced General Purpose Service Robot (EGPSR) (09:30)|#|Clean the table (10:30)|#|Restaurant (13:30)|#|Stickler for rules (15:30)|
 |-|-|-|-|-|-|-|-|
-|1|Team Terminator|1|TwiggiesAid|1|USM Infinity|1|USM Infinity
-|2|TwiggiesAid|2|USM Infinity|2|Team Terminator|2|Team Terminator
-|3|USM Infinity|3|UTAR|3|UTAR|3|UTAR
-|4|UTAR|4|Team Terminator|4|TwiggiesAid|4|TwiggiesAid
+|1|USM Infinity |1|Team Terminator |1|USM Infinity|1|TwiggiesAid
+|2|Team Terminator |2|TwiggiesAid |2|Team Terminator|2|USM Infinity
+|3|UTAR |3|USM Infinity|3|UTAR|3|UTAR
+|4|TwiggiesAid |4|UTAR |4|TwiggiesAid|4|Team Terminator
+
+
 
 #### @Home EDU Arena
 |#|Receptionist (09:30)|
