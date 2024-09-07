@@ -24,10 +24,10 @@ Rule for the competition: https://2024.robocup.org.my/challenges-and-rules/home
 ### @HOME OPL
 | Team name       |  Poster  | Stage 1 | Stage 2 | Final |
 |-----------------|----------|---------|---------|-------|
-| USM Infinity    |   8.33   |         |         |       |
-| UTAR            |   7.33   |         |         |       |
-| TwiggiesAid     |    7.5   |         |         |       |
-| Team Terminator |    6.5   |         |         |       |
+| USM Infinity    |   8.33   |    0    |    0    |       |
+| UTAR            |   7.33   |    0    |    0    |       |
+| TwiggiesAid     |    7.5   |  270    |  715    |       |
+| Team Terminator |    6.5   |   30    |  165    |       |
 
 #### Stage 1
 |Team name|Storing Groceries|Receiptionist|Carry my luggage|General Purpose Service Robot (GPSR)|Serve Breakfast|Stage 1 Total
@@ -40,26 +40,27 @@ Rule for the competition: https://2024.robocup.org.my/challenges-and-rules/home
 #### Stage 2
 |Team name|Clean the table|Stickler for rules|Restaurant|Enhanced General Purpose Service Robot (EGPSR)|Stage 2 Total
 |-|-|-|-|-|-|
-| USM Infinity    |       |         |         |       |        |
-| UTAR            |       |         |         |       |        |
-| TwiggiesAid     |       |         |         |       |        |
-| Team Terminator |       |         |         |       |        |
+| USM Infinity    |   -   |    -    |    -    |   -   |    -   |
+| UTAR            |   -   |    -    |    -    |   -   |    -   |
+| TwiggiesAid     | 315   |  300    |  100    |   0   |  715   |
+| Team Terminator |  65   |    0    |  100    |   0   |  165   |
 
 ### @HOME EDU
-|    Team name      |  Poster   | Carry My Luggage | Find My Mates | Receptionist | Final |
-|-|-|-|-|-|-|
-| Airost            |           |         |         |       |       |
-| USM Titans        |           |         |         |       |       |
-| UNIMY             |           |         |         |       |       |
-| UniMAP MechaMinds |           |         |         |       |       |
-| PutraBot          |           |         |         |       |       |
-| FATHI             |           |         |         |       |       |
-| Robo in Progress  |           |         |         |       |       |
-| SOBITS            |           |         |         |       |       |
-| kamerider UTHM    |           |         |         |       |       |
-| UM ENIGMA         |           |         |         |       |       |
-| UM Homies         |           |         |         |       |       |
-| YOLOv9            |           |         |         |       |       |
+|Team name        |Poster|Carry my luggage|Find my mates|Receptionist|Final|Total  |
+|-----------------|------|----------------|-------------|------------|------|-------|
+|UM Homies        |7.60  |500             |90           |750         | |1347.60|
+|UniMAP MechaMinds|7.73  |400             |40           |800         | |1247.73|
+|Robo in Progress |7.27  |450             |0            |650         | |1107.27|
+|UM ENIGMA        |8.50  |250             |0            |400         | |658.50 |
+|USM Titans       |7.64  |250             |0            |400         | |657.64 |
+|kamerider UTHM   |7.82  |250             |0            |150         | |407.82 |
+|UNIMY            |7.09  |250             |0            |100         | |357.09 |
+|Airost           |7.82  |200             |0            |100         | |307.82 |
+|SOBITS           |8.00  |0               |90           |100         | |198.00 |
+|YOLOv9           |7.73  |50              |0            |100         | |157.73 |
+|PutraBot         |6.91  |0               |0            |100         | |106.91 |
+|FATHI            |7.45  |0               |0            |50          | |57.45  |
+
 
 
 <!-- Template
