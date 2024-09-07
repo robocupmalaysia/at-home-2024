@@ -153,11 +153,28 @@ Rule for the competition: https://2024.robocup.org.my/challenges-and-rules/home
 |12|UM ENIGMA
 
 ### Day 4 : 8 September 2024
+
+#### @Home OPL Arena
 |#|Final (09:30)|
 |-|-|
 |1|TwiggiesAid|
 |2|Team Terminator|
 
+#### @Home EDU Arena
+|#|Final (After OPL Final end)|
+|-|-|
+|1|PutraBot
+|2|YOLOv9
+|3|Airost
+|4|SOBITS
+|5|Robo in Progress
+|6|UniMAP MechaMinds
+|7|UM Homies
+|8|FATHI
+|9|UNIMY
+|10|USM Titans
+|11|UM ENIGMA
+|12|kamerider UTHM
 
 ## Field Layout
 
