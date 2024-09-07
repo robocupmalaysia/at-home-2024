@@ -32,6 +32,14 @@ Rule for the competition: https://2024.robocup.org.my/challenges-and-rules/home
 |USM Infinity     |8.33  |0     |0     |     |8.33   |
 |UTAR             |7.33  |0     |0     |     |7.33   |
 
+#### Stage 2
+|Team name        |Clean the table|Stickler for rules|Restaurant|Enhanced General Purpose Service Robot (EGPSR)|Stage2 Total|Stage 1+2|
+|-----------------|---------------|------------------|----------|----------------------------------------------|------------|---------|
+|TwiggiesAid      |315            |300               |100       |0                                             |715         |985      |
+|Team Terminator  |65             |0                 |100       |0                                             |165         |195      |
+|USM Infinity     |-              |-                 |-         |-                                             |0           |0        |
+|UTAR             |-              |-                 |-         |-                                             |0           |0        |
+
 #### Stage 1
 |Team name|Storing Groceries|Receiptionist|Carry my luggage|General Purpose Service Robot (GPSR)|Serve Breakfast|Stage 1 Total
 |-|-|-|-|-|-|-|
@@ -39,14 +47,6 @@ Rule for the competition: https://2024.robocup.org.my/challenges-and-rules/home
 | Team Terminator |   -   |    -    |   15    |   0   |   15    | 30  |
 | USM Infinity    |   -   |    -    |    -    |   -   |    -    |  0  |
 | UTAR            |   -   |    -    |    -    |   -   |    -    |  0  |
-
-#### Stage 2
-|Team name|Clean the table|Stickler for rules|Restaurant|Enhanced General Purpose Service Robot (EGPSR)|Stage 2 Total
-|-|-|-|-|-|-|
-| TwiggiesAid     | 315   |  300    |  100    |   0   |  715   |
-| Team Terminator |  65   |    0    |  100    |   0   |  165   |
-| USM Infinity    |   -   |    -    |    -    |   -   |    -   |
-| UTAR            |   -   |    -    |    -    |   -   |    -   |
 
 ### @HOME EDU
 |Team name        |Poster|Carry my luggage|Find my mates|Receptionist|Final|Total  |
