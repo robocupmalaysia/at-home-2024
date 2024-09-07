@@ -32,10 +32,10 @@ Rule for the competition: https://2024.robocup.org.my/challenges-and-rules/home
 #### Stage 1
 |Team name|Storing Groceries|Receiptionist|Carry my luggage|General Purpose Service Robot (GPSR)|Serve Breakfast|Stage 1 Total
 |-|-|-|-|-|-|-|
-| USM Infinity    |       |         |         |       |        |     |
-| UTAR            |       |         |         |       |        |     |
-| TwiggiesAid     |       |         |         |       |        |     |
-| Team Terminator |       |         |         |       |        |     |
+| USM Infinity    |   -   |    -    |    -    |   -   |    -    |  0  |
+| UTAR            |   -   |    -    |    -    |   -   |    -    |  0  |
+| TwiggiesAid     |  30   |  115    |   15    |  50   |   60    |270  |
+| Team Terminator |   -   |    -    |   15    |   0   |   15    | 30  |
 
 #### Stage 2
 |Team name|Clean the table|Stickler for rules|Restaurant|Enhanced General Purpose Service Robot (EGPSR)|Stage 2 Total
