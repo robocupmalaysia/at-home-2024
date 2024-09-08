@@ -74,6 +74,13 @@ Rule for the competition: https://2024.robocup.org.my/challenges-and-rules/home
 |11               |UNIMY    |13.25     |10.53   |11.79   |35.57  |
 |12               |PutraBot |3.97      |0.00    |0.00    |3.97   |
 
+#### Awards
+|Award |Team name |
+|------------------|------|
+|Raising Star Award 🌟 |YOLOv9|
+|Best HRI (_Human-Robot Interaction_) Award 🫶         |SOBITS|
+|Best Presentation Award 🎤 |SOBITS|
+
 #### Task score and Poster (Before normalized)
 
 |#                |Team name|Poster|Carry my luggage|Find my mates|Receptionist|Total  |
