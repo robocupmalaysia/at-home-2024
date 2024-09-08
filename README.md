@@ -25,12 +25,22 @@ Rule for the competition: https://2024.robocup.org.my/challenges-and-rules/home
 ## Scores
 
 ### @HOME OPL
-|Team name        |Poster|Stage1|State2|Final|Total  |
-|-----------------|------|------|------|-----|-------|
-|TwiggiesAid      |7.5   |270   |715   |     |992.5  |
-|Team Terminator  |6.5   |30    |165   |     |201.5  |
-|USM Infinity     |8.33  |0     |0     |     |8.33   |
-|UTAR             |7.33  |0     |0     |     |7.33   |
+#### Overall
+|#                |Team name|Task score (50%)|Final Internal Jury (25%)|Final External Jury (25%)|Total (100%)  |
+|-----------------|---------|----------|--------|--------|-------|
+|1                |TwiggiesAid 🥇 |50.00     |16.67   |20.53   |87.19  |
+|2                |Team Terminator 🥈 |10.15     |25.00   |25.00   |60.15  |
+|3                |USM Infinity|0.42      |0.00    |0.00    |0.42   |
+|4                |UTAR     |0.37      |0.00    |0.00    |0.37   |
+
+#### Task score and Poster (Before normalized)
+|#                |Team name|Poster|Stage1|State2|Total  |
+|-----------------|---------|------|------|------|-------|
+|                 |         |      |      |      |       |
+|1                |TwiggiesAid|7.5   |270   |715   |992.5  |
+|2                |Team Terminator|6.5   |30    |165   |201.5  |
+|3                |USM Infinity|8.33  |0     |0     |8.33   |
+|4                |UTAR     |7.33  |0     |0     |7.33   |
 
 #### Stage 2
 |Team name        |Clean the table|Stickler for rules|Restaurant|Enhanced General Purpose Service Robot (EGPSR)|Stage 2 Total|Stage 1+2|
@@ -49,20 +59,41 @@ Rule for the competition: https://2024.robocup.org.my/challenges-and-rules/home
 | UTAR            |   -   |    -    |    -    |   -   |    -    |  0  |
 
 ### @HOME EDU
-|Team name        |Poster|Carry my luggage|Find my mates|Receptionist|Final|Total  |
-|-----------------|------|----------------|-------------|------------|------|-------|
-|UM Homies        |7.60  |500             |90           |750         | |1347.60|
-|UniMAP MechaMinds|7.73  |400             |40           |800         | |1247.73|
-|Robo in Progress |7.27  |450             |0            |650         | |1107.27|
-|UM ENIGMA        |8.50  |250             |0            |400         | |658.50 |
-|USM Titans       |7.64  |250             |0            |400         | |657.64 |
-|kamerider UTHM   |7.82  |250             |0            |150         | |407.82 |
-|UNIMY            |7.09  |250             |0            |100         | |357.09 |
-|Airost           |7.82  |200             |0            |100         | |307.82 |
-|SOBITS           |8.00  |0               |90           |100         | |198.00 |
-|YOLOv9           |7.73  |50              |0            |100         | |157.73 |
-|PutraBot         |6.91  |0               |0            |100         | |106.91 |
-|FATHI            |7.45  |0               |0            |50          | |57.45  |
+
+#### Overall
+
+|#                |Team name|Task score (50%)|Final Internal Jury (25%)|Final External Jury (25%)|Total (100%)  |
+|-----------------|---------|----------|--------|--------|-------|
+|1                |UniMAP MechaMinds 🥇|46.29     |18.64   |16.98   |81.92  |
+|2                |UM Homie 🥈|50.00     |17.32   |13.92   |81.24  |
+|3                |Robo in Progress 🥉|41.08     |17.76   |16.51   |75.36  |
+|4                |UM ENIGMA|24.43     |19.74   |18.40   |62.57  |
+|5                |SOBITS   |7.35      |25.00   |25.00   |57.35  |
+|6                |USM Titans|24.40     |15.35   |16.51   |56.26  |
+|7                |kamerider UTHM|15.13     |17.76   |14.15   |47.05  |
+|8                |Airost   |11.42     |16.23   |15.57   |43.22  |
+|9                |YOLOv9   |5.85      |17.98   |15.57   |39.40  |
+|10               |FATHI    |2.13      |16.45   |17.45   |36.03  |
+|11               |UNIMY    |13.25     |10.53   |11.79   |35.57  |
+|12               |PutraBot |3.97      |0.00    |0.00    |3.97   |
+
+#### Task score and Poster (Before normalized)
+
+|#                |Team name|Poster|Carry my luggage|Find my mates|Receptionist|Total  |
+|-----------------|---------|------|----------------|-------------|------------|-------|
+|1                |UM Homies|7.60  |500             |90           |750         |1347.60|
+|2                |UniMAP MechaMinds|7.73  |400             |40           |800         |1247.73|
+|3                |Robo in Progress|7.27  |450             |0            |650         |1107.27|
+|4                |UM ENIGMA|8.50  |250             |0            |400         |658.50 |
+|5                |USM Titans|7.64  |250             |0            |400         |657.64 |
+|6                |kamerider UTHM|7.82  |250             |0            |150         |407.82 |
+|7                |UNIMY    |7.09  |250             |0            |100         |357.09 |
+|8                |Airost   |7.82  |200             |0            |100         |307.82 |
+|9                |SOBITS   |8.00  |0               |90           |100         |198.00 |
+|10               |YOLOv9   |7.73  |50              |0            |100         |157.73 |
+|11               |PutraBot |6.91  |0               |0            |100         |106.91 |
+|12               |FATHI    |7.45  |0               |0            |50          |57.45  |
+
 
 
 
