@@ -34,7 +34,6 @@ Rule for the competition: https://2024.robocup.org.my/challenges-and-rules/home
 #### Task score and Poster (Before normalized)
 |#                |Team name|Poster|Stage1|State2|Total  |
 |-----------------|---------|------|------|------|-------|
-|                 |         |      |      |      |       |
 |1                |TwiggiesAid|7.5   |270   |715   |992.5  |
 |2                |Team Terminator|6.5   |30    |165   |201.5  |
 |3                |USM Infinity|8.33  |0     |0     |8.33   |
