@@ -1,6 +1,7 @@
 # Robocup Malaysia Open 2024 @Home League
 
-[Rule for the competition](./rules/at-home-robocup-my-2024.pdf)
+- [Rule for @HomeOPL ](./rules/at-home-robocup-my-2024.pdf)
+- [Rule for @HomeEDU ](./rules/at-home-edu-robocup-my-2024.pdf)
 
 ## RobocupMy 2024 - @Home & @HomeEdu Teams
  ![RobocupMy 2024 - @Home & @HomeEdu Teams](./photos/teams.jpg)
